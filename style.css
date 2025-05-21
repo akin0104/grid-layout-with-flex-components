@@ -46,8 +46,3 @@ body {
     margin-top: auto; /* Push button to bottom */
     text-align: center;
 }
-
-/* Optional header style */
-.siteheader {
-    padding: 2rem;
-}
